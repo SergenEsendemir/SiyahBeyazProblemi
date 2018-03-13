@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\bin\Debug\SiyahBeyazProblemi.exe.config
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\bin\Debug\SiyahBeyazProblemi.exe
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\bin\Debug\SiyahBeyazProblemi.pdb
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\obj\Debug\SiyahBeyazProblemi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\obj\Debug\SiyahBeyazProblemi.Form1.resources
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\obj\Debug\SiyahBeyazProblemi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\obj\Debug\SiyahBeyazProblemi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\obj\Debug\SiyahBeyazProblemi.exe
+C:\Users\ASUS\Desktop\SiyahBeyazProblemi\SiyahBeyazProblemi\obj\Debug\SiyahBeyazProblemi.pdb
